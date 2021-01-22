@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  
+  {
+    :age => 32
+  }
 end
 
 def pioneer
