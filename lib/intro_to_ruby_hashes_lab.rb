@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  age, "my age is 32"
+  
 end
 
 def pioneer
