@@ -18,4 +18,5 @@ end
 def id_hash_generator(number)
   { 
     :i => 32
+  }
 end
